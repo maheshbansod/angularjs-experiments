@@ -1,4 +1,6 @@
 'use strict';
+import './interpolate-filter';
+import './version-directive'
 
 angular.module('myApp.version', [
   'myApp.version.interpolate-filter',

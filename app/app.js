@@ -1,4 +1,9 @@
 'use strict';
+import angular from 'angular';
+import 'angular-route';
+import './view1/view1';
+import './view2/view2';
+import './core/version/version';
 
 // Declare app level module which depends on views, and core components
 angular.module('myApp', [

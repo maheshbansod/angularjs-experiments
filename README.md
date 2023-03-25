@@ -1,5 +1,16 @@
 # angularjs experiments
 
-experimenting with vite rn
+mostly experimenting with vite rn
 
-the boilerplate generated via angular-seed
+- Angularjs
+- Vite
+- Typescript
+
+# the future looks like
+- strongly typed components/directives/controllers
+- probably `pnpm`
+- HMR
+- scss
+- atomizer
+- eslint, prettier
+- one part of app having another framework
